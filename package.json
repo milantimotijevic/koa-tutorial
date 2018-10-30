@@ -1,0 +1,17 @@
+{
+  "name": "koa-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.1",
+    "koa-router": "^7.4.0",
+    "pg": "^7.6.0",
+    "sequelize": "^4.41.0"
+  }
+}
